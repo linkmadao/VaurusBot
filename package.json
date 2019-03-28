@@ -1,0 +1,11 @@
+{
+  "name": "vaurus-bot",
+  "version": "1.0.0",
+  "description": "Bot que representa o vaurus no discord",
+  "main": "bot.js",
+  "author": "Linkmadao",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
